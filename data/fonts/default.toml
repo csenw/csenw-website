@@ -1,0 +1,16 @@
+# Font style metadata
+name = "Senstyle"
+
+# Optional Google font URL
+#google_fonts = "Montserrat:400,700|Roboto:400,400italic,700|Roboto+Mono"
+google_fonts = "Merriweather:400,700"
+
+# Font families
+heading_font = "Merriweather"
+body_font = "Merriweather"
+nav_font = "Merriweather"
+mono_font = "Merriweather"
+
+# Font size
+font_size = "20"
+font_size_small = "16"
