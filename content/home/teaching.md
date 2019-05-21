@@ -23,11 +23,11 @@ weight = 40
    color = "white"
 +++
 <div style="padding-left: 10px">
-University of Queensland:
+<b>University of Queensland:</b>
 <ul>
     <li><a href="https://my.uq.edu.au/programs-courses/course.html?course_code=INFS3208&year=2019">Cloud Computing (INFS3208)</a>, Sem 2, 2019</li>
 </ul>
-Griffith University:
+<b>Griffith University:</b>
 <ul>
 <li><a href="https://degrees.griffith.edu.au/Course/3804ICT">Data Mining (3804ICT)</a>, Tri 2, 2018</li>
 <li><a href="https://degrees.griffith.edu.au/Course/1804ICT">Data Management (1804ICT)</a>, Tri 2&3, 2017; Tri 2, 2018</li>
