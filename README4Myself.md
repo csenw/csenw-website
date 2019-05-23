@@ -18,3 +18,5 @@ Daily maintain:
 2. hugo to generate new static html files in publich
 3. push origin master in the root folder -> csenw-website
 4. goto public folder and push origin master -> csenw.github.io
+
+5. Post a news thread: hugo new post/TCYB-accepted.md
