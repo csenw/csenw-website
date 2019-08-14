@@ -25,7 +25,7 @@ weight = 40
 <div style="padding-left: 10px">
 <b>University of Queensland:</b>
 <ul>
-    <li><a href="https://my.uq.edu.au/programs-courses/course.html?course_code=INFS3208&year=2019">Cloud Computing (INFS3208)</a>, Sem 2, 2019</li>
+    <li><a href="https://my.uq.edu.au/programs-courses/course.html?course_code=INFS3208&year=2019">Cloud Computing (INFS3208/INFS7208)</a>, Sem 2, 2019</li>
 </ul>
 <b>Griffith University:</b>
 <ul>
