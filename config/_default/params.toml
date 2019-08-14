@@ -53,8 +53,8 @@ time_format = "3:04 PM"
 email = "first_name [dot] last_name"
 ocrid = "https://orcid.org/0000-0002-5414-8276"
 scholar = "https://goo.gl/EAczyV"
-phone = "+61 7 3365 1136"
-address = "Room 633, Building 78, Staff Road, St Lucia, 4072, Brisbane, Queensland, Australia"
+phone = "+61 7 3365 2907"
+address = "Room 649, Building 78, Staff Road, St Lucia, 4072, Brisbane, Queensland, Australia"
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
 #office_hours = """Monday 10:00 to 13:00<br>
