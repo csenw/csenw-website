@@ -1,7 +1,7 @@
 ---
 title: "An embedded feature selection framework for hybrid data"
 date: 2017-01-01
-publishDate: 2019-05-21T05:10:44.307290Z
+publishDate: 2019-11-16T13:26:02.149514Z
 authors: ["Forough Rezaei Boroujeni", "Bela Stantic", "Sen Wang"]
 publication_types: ["1"]
 abstract: ""

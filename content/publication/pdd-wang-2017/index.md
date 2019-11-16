@@ -1,7 +1,7 @@
 ---
 title: "PDD graph: Bridging electronic medical records and biomedical knowledge graphs via entity linking"
 date: 2017-07-01
-publishDate: 2019-05-21T05:10:44.307914Z
+publishDate: 2019-11-16T13:26:02.150027Z
 authors: ["Meng Wang", "Jiaheng Zhang", "Jun Liu", "Wei Hu", "Sen Wang", "Xue Li", "Wenqiang Liu"]
 publication_types: ["1"]
 abstract: ""

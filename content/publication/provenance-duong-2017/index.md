@@ -1,7 +1,7 @@
 ---
 title: "Provenance-based rumor detection"
 date: 2017-01-01
-publishDate: 2019-05-21T05:10:44.306498Z
+publishDate: 2019-11-16T13:26:02.148909Z
 authors: ["Chi Thang Duong", "Quoc Viet Hung Nguyen", "Sen Wang", "Bela Stantic"]
 publication_types: ["1"]
 abstract: ""

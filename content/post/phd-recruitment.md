@@ -1,6 +1,6 @@
 +++
-title = "Recruitment: One Full PhD Scholarship is AVAILABLE!"
-date = 2019-05-15T20:55:04+10:00
+title = "Recruitment: THREE Full PhD Scholarships are AVAILABLE!"
+date = 2019-11-15T23:59:59+10:00
 draft = false
 
 # Tags and categories
@@ -18,4 +18,4 @@ categories = []
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = ""
 +++
-One full scholarship is available under Sen's supervision in areas of data mining and machine learning. The PhD student will be focusing on the deep learning with the applications to healthcare. Applications can be sent in by email, and are accepted until the position is filled. Each application must include a detailed transcript (of the applicant's undergraduate study) and a CV that lists the applicant's awards (since high school) and publications. Applicants with background in math or theoretical algorithms are especially welcome.
+Three full scholarships are now available under Sen's supervision in areas of data mining and machine learning. The PhD student will be focusing on the deep learning with the applications to healthcare. Applications can be sent in by email, and are accepted until the position is filled. Each application must include a detailed transcript (of the applicant's undergraduate study) and a CV that lists the applicant's awards (since high school) and publications. Applicants with background in math or theoretical algorithms are especially welcome.

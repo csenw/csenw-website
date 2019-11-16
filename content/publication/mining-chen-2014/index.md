@@ -1,7 +1,7 @@
 ---
 title: "Mining Personal Health Index from Annual Geriatric Medical Examinations"
 date: 2015-12-01
-publishDate: 2019-05-21T05:10:44.317104Z
+publishDate: 2019-11-16T13:26:02.157040Z
 authors: ["Ling Chen", "Xue Li", "Sen Wang", "Hsiao Yun Hu", "Nicole Huang", "Quan Z. Sheng", "Mohamed Sharaf"]
 publication_types: ["1"]
 abstract: ""

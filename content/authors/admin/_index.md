@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Lecturer in Computer Science 
+role: Lecturer in Computer Science, ARC DECRA Fellow 
 
 # Organizations/Affiliations
 organizations:
@@ -68,6 +68,6 @@ bio: My research interests include machine learning, deep learning, and health i
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 ---
-Currently, I am a lecturer in <a target="_blank" href="https://itee.uq.edu.au/">School of Information Technology and Electrical Engineering (ITEE)</a> in <a target="_blank" href="https://www.uq.edu.au">the University of Queensland (UQ)</a>. I am also an adjunct senior research fellow in <a target="_blank" href="https://www.griffith.edu.au/institute-integrated-intelligent-systems">Institute for Integrated and Intelligent Systems (IIIS)</a> in <a target="_blank" href="https://www.griffith.edu.au">Griffith University (GU)</a>. Previously, I worked as a lecture of computer science in <a target="_blank" href="https://www.griffith.edu.au/griffith-sciences/school-information-communication-technology">School of Information and Communication Technology (ICT)</a> in GU from July 2016 to January 2019. I received my PhD degree in UQ in 2014. Between Jan 2014 and July 2016, I have been an ARC post-doctoral research fellow in UQ. 
+Currently, I am a lecturer and an ARC DECRA Fellow (Australia Discovery Early Career Researcher Award) in <a target="_blank" href="https://itee.uq.edu.au/">School of Information Technology and Electrical Engineering (ITEE)</a> in <a target="_blank" href="https://www.uq.edu.au">the University of Queensland (UQ)</a>. I am also an adjunct senior research fellow in <a target="_blank" href="https://www.griffith.edu.au/institute-integrated-intelligent-systems">Institute for Integrated and Intelligent Systems (IIIS)</a> in <a target="_blank" href="https://www.griffith.edu.au">Griffith University (GU)</a>. Previously, I worked as a lecture of computer science in <a target="_blank" href="https://www.griffith.edu.au/griffith-sciences/school-information-communication-technology">School of Information and Communication Technology (ICT)</a> in GU from July 2016 to January 2019. I received my PhD degree in UQ in 2014. Between Jan 2014 and July 2016, I have been an ARC post-doctoral research fellow in UQ. 
 
 My research interest includes various topics on Feature Selection, Semi-supervised Learning, Deep Learning, Pattern Recognition, and Data Mining. Also, I have always been concentrating on significant applications using AI and Data Mining techniques, such as health informatics and social media analysis. My CV can be found at <a target="_blank" href="files/cv.pdf">here</a>.

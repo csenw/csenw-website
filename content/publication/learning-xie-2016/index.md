@@ -1,7 +1,7 @@
 ---
 title: "Learning Graph-based POI Embedding for Location-based Recommendation"
 date: 2016-01-01
-publishDate: 2019-05-21T05:10:44.311663Z
+publishDate: 2019-11-16T13:26:02.152309Z
 authors: ["Min Xie", "Hongzhi Yin", "Hao Wang", "Fanjiang Xu", "Weitong Chen", "Sen Wang"]
 publication_types: ["1"]
 abstract: ""

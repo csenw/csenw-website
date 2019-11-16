@@ -1,7 +1,7 @@
 ---
 title: "Diagnosis Code Assignment Using Sparsity-Based Disease Correlation Embedding"
 date: 2016-12-01
-publishDate: 2019-05-21T05:07:10.117305Z
+publishDate: 2019-11-16T13:18:31.327343Z
 authors: ["Sen Wang", "Xiao Jun Chang", "Xue Li", "Guodong Long", "Lina Yao", "Quan Z. Sheng"]
 publication_types: ["2"]
 abstract: ""

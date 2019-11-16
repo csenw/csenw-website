@@ -1,7 +1,7 @@
 ---
 title: "Multi-modality sensor data classification with selective attention"
 date: 2018-04-01
-publishDate: 2019-05-21T05:10:44.300942Z
+publishDate: 2019-11-16T13:26:02.143568Z
 authors: ["Xiang Zhang", "Lina Yao", "Chaoran Huang", "Sen Wang", "Mingkui Tan", "Guodong Long", "Can Wang"]
 publication_types: ["1"]
 abstract: ""

@@ -1,7 +1,7 @@
 ---
 title: "Multi-View Correlated Feature Learning by Uncovering Shared Component"
 date: 2017-01-01
-publishDate: 2019-05-21T05:10:44.305797Z
+publishDate: 2019-11-16T13:26:02.148372Z
 authors: ["Xiaowei Xue", "Feiping Nie", "Sen Wang", "Xiaojun Chang", "Bela Stantic", "Min Yao"]
 publication_types: ["1"]
 abstract: ""

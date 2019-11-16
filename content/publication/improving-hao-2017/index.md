@@ -1,7 +1,7 @@
 ---
 title: "Improving Chinese Sentiment Analysis via Segmentation-Based Representation Using Parallel CNN"
 date: 2017-01-01
-publishDate: 2019-05-21T05:10:44.304583Z
+publishDate: 2019-11-16T13:26:02.147103Z
 authors: ["Yazhou Hao", "Qinghua Zheng", "Yangyang Lan", "Yufei Li", "Meng Wang", "Sen Wang", "Chen Li"]
 publication_types: ["1"]
 abstract: ""

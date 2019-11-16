@@ -1,7 +1,7 @@
 ---
 title: "EEG-based Motion Intention Recognition via Multi-task RNNs"
 date: 2018-05-01
-publishDate: 2019-05-21T05:10:44.303787Z
+publishDate: 2019-11-16T13:26:02.146322Z
 authors: ["Weitong Chen", "Sen Wang", "Xiang Zhang", "Lina Yao", "Lin Yue", "Buyue Qian", "Xue Li"]
 publication_types: ["1"]
 abstract: ""

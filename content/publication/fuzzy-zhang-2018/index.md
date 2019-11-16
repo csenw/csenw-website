@@ -1,7 +1,7 @@
 ---
 title: "Fuzzy integral optimization with deep Q-network for EEG-based intention recognition"
 date: 2018-06-01
-publishDate: 2019-05-21T05:10:44.303156Z
+publishDate: 2019-11-16T13:26:02.145724Z
 authors: ["Dalin Zhang", "Lina Yao", "Sen Wang", "Kaixuan Chen", "Zheng Yang", "Boualem Benatallah"]
 publication_types: ["1"]
 abstract: ""
